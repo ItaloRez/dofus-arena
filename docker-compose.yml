@@ -1,0 +1,12 @@
+services:
+  arena:
+    build: ./server
+    ports:
+      - "8090:8090"
+    environment:
+      - DUMMY_GFX=${DUMMY_GFX:-0}
+    volumes:
+      - arena-data:/data
+    restart: unless-stopped
+volumes:
+  arena-data:

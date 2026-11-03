@@ -1,0 +1,5 @@
+node_modules
+server/storage
+tools/out
+tools/__pycache__
+.asset-src

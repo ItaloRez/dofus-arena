@@ -1,0 +1,24 @@
+{
+  "name": "dofus-arena",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo PvP tático por turnos no navegador com as regras do Dofus 1.29",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "npm run test:rules && node test/sim.js 12 1 && node test/sim.js 4 3 && node test/e2e.js",
+    "test:rules": "node --test test/rules.test.mjs",
+    "audit:report": "node test/audit.mjs",
+    "audit": "node test/audit.mjs --strict",
+    "audit:mechanics": "node test/audit.mjs --strict-mechanics",
+    "audit:assets": "node test/audit.mjs --strict-assets",
+    "export:required": "node ../tools/swf/export-required.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ws": "8.18.0"
+  }
+}

@@ -1,0 +1,282 @@
+{
+ "UI_Banner": {
+  "w": 1127,
+  "h": 1045,
+  "ox": 103,
+  "oy": 21,
+  "scale": 2
+ },
+ "Heart": {
+  "w": 88,
+  "h": 78,
+  "ox": 44,
+  "oy": 39,
+  "scale": 2
+ },
+ "Star": {
+  "w": 75,
+  "h": 72,
+  "ox": 37,
+  "oy": 36,
+  "scale": 2
+ },
+ "StarSymbol": {
+  "w": 47,
+  "h": 46,
+  "ox": 3,
+  "oy": 6,
+  "scale": 2
+ },
+ "IconMP": {
+  "w": 48,
+  "h": 35,
+  "ox": 2,
+  "oy": 0,
+  "scale": 2
+ },
+ "PointsViewerAP": {
+  "w": 64,
+  "h": 68,
+  "ox": 35,
+  "oy": 39,
+  "scale": 2
+ },
+ "PointsViewerMP": {
+  "w": 67,
+  "h": 69,
+  "ox": 38,
+  "oy": 40,
+  "scale": 2
+ },
+ "TimelineItem": {
+  "w": 60,
+  "h": 70,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "TimelineItemSummonedBg": {
+  "w": 42,
+  "h": 64,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "TimelinePointer": {
+  "w": 68,
+  "h": 104,
+  "ox": 4,
+  "oy": 30,
+  "scale": 2
+ },
+ "ButtonNextTurnUp": {
+  "w": 84,
+  "h": 48,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "ButtonNextTurnDown": {
+  "w": 84,
+  "h": 48,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "ButtonGiveUpUp": {
+  "w": 99,
+  "h": 35,
+  "ox": 6,
+  "oy": 6,
+  "scale": 2
+ },
+ "ButtonGiveUpDown": {
+  "w": 99,
+  "h": 35,
+  "ox": 6,
+  "oy": 6,
+  "scale": 2
+ },
+ "UI_FightOptionTacticModeUp": {
+  "w": 39,
+  "h": 41,
+  "ox": 10,
+  "oy": 8,
+  "scale": 2
+ },
+ "UI_FightOptionTacticModeDown": {
+  "w": 39,
+  "h": 41,
+  "ox": 10,
+  "oy": 8,
+  "scale": 2
+ },
+ "UI_BannerContainerBackground": {
+  "w": 50,
+  "h": 50,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "UI_BannerContainerBorder": {
+  "w": 50,
+  "h": 50,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "UI_BannerContainerHighLight": {
+  "w": 50,
+  "h": 50,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "ButtonTimelineUp": {
+  "w": 18,
+  "h": 10,
+  "ox": -1,
+  "oy": -1,
+  "scale": 2
+ },
+ "ButtonTimelineDown": {
+  "w": 18,
+  "h": 10,
+  "ox": -1,
+  "oy": -9,
+  "scale": 2
+ },
+ "UI_BuffHighlight": {
+  "w": 40,
+  "h": 40,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "ButtonBuffUp": {
+  "w": 40,
+  "h": 28,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconAir": {
+  "w": 32,
+  "h": 32,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconEarth": {
+  "w": 32,
+  "h": 32,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconFire": {
+  "w": 32,
+  "h": 32,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconWater": {
+  "w": 32,
+  "h": 32,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconNeutral": {
+  "w": 32,
+  "h": 32,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconVita": {
+  "w": 32,
+  "h": 32,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconForbidden": {
+  "w": 16,
+  "h": 16,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "NonDispellableIcon": {
+  "w": 24,
+  "h": 30,
+  "ox": -6,
+  "oy": -2,
+  "scale": 2
+ },
+ "ButtonBannerRoundUp": {
+  "w": 44,
+  "h": 44,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "ButtonBannerRoundDown": {
+  "w": 44,
+  "h": 44,
+  "ox": 0,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconWisdom": {
+  "w": 32,
+  "h": 32,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconInit": {
+  "w": 32,
+  "h": 32,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconPlacaje": {
+  "w": 28,
+  "h": 26,
+  "ox": 1,
+  "oy": 0,
+  "scale": 2
+ },
+ "IconHuida": {
+  "w": 26,
+  "h": 26,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconAlcance": {
+  "w": 32,
+  "h": 22,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconSummons": {
+  "w": 32,
+  "h": 32,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ },
+ "IconCritico": {
+  "w": 8,
+  "h": 23,
+  "ox": 1,
+  "oy": 1,
+  "scale": 2
+ }
+}
